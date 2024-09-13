@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Uploading Design 1.png…]()
+![Design 1](https://github.com/user-attachments/assets/af6d9499-553a-49ee-9a81-9afcfbeecb4b)
+
 
 
 Hello,
