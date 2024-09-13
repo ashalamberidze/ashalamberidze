@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Design](https://github.com/user-attachments/assets/fe0608bf-a183-4bb1-a69d-74cff1143621)
+![Uploading Design 1.png…]()
+
 
 Hello,
 My name is Ana and I am a PhD student at SDSU/UCSD working on my degree in organic chemistry. My current research is design and synthesis of fluorescent nucleoside analogues for biochemical applications. Recently, I decided to gain some skills in programming to broaden my horizon and professional development. 
